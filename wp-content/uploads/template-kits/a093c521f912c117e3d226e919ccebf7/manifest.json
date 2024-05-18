@@ -1,0 +1,1017 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Financerr - Business & Finance Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us 2",
+            "screenshot": "screenshots\/contact-us-2.jpg",
+            "source": "templates\/contact-us-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/contact-us-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Cases",
+            "screenshot": "screenshots\/our-cases.jpg",
+            "source": "templates\/our-cases.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/our-cases\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer 2",
+            "screenshot": "screenshots\/footer-2.jpg",
+            "source": "templates\/footer-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/financerr\/template-kit\/footer-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.2.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.0.9.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "business-meeting-in-modern-conference-room-e1603246712806.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-meeting-in-modern-conference-room-e1603246712806.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 169275,
+            "dimensions": [
+                1920,
+                1013
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YQPUKFC"
+        },
+        {
+            "filename": "business-meeting-and-teamwork-by-business-people-REGXPAZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-meeting-and-teamwork-by-business-people-REGXPAZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 245487,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-REGXPAZ"
+        },
+        {
+            "filename": "creative-business-people-working-on-business-project-e1603246670183.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/creative-business-people-working-on-business-project-e1603246670183.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 146995,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KAT274E"
+        },
+        {
+            "filename": "business-colleagues-collaborating-and-discussing-project-plans-e1603078432543.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-colleagues-collaborating-and-discussing-project-plans-e1603078432543.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact-us-2.json",
+                    "name": "Contact Us 2"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 173618,
+            "dimensions": [
+                1333,
+                1625
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5WXCNTB"
+        },
+        {
+            "filename": "Asset-1@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Asset-1@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 27889,
+            "dimensions": [
+                1055,
+                428
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-JQLHGD"
+        },
+        {
+            "filename": "Partner-3@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Partner-3@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 34661,
+            "dimensions": [
+                1187,
+                502
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-EL3YNG"
+        },
+        {
+            "filename": "Partner@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Partner@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 27552,
+            "dimensions": [
+                1376,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-CE3VQV"
+        },
+        {
+            "filename": "Partner-4@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Partner-4@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 23093,
+            "dimensions": [
+                1301,
+                386
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-PN2XBT"
+        },
+        {
+            "filename": "Team.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Team-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 213837,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/babc9c8f-db2f-44b3-9e89-4ee11e63a6fa"
+        },
+        {
+            "filename": "Team2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Team2-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 216125,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7T83YHE"
+        },
+        {
+            "filename": "Team3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Team3-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 163296,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4Z763LW"
+        },
+        {
+            "filename": "background.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/background.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 14631,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/financerr\/"
+        },
+        {
+            "filename": "young-smart-business-people-meeting-in-business-office-e1602756116656.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/young-smart-business-people-meeting-in-business-office-e1602756116656.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 178856,
+            "dimensions": [
+                1333,
+                1530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LRH38DM"
+        },
+        {
+            "filename": "business-people-day-at-modern-business-office.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-people-day-at-modern-business-office.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 234675,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MDJB457"
+        },
+        {
+            "filename": "portrait-of-successful-business-team-working-in-office-e1603246310585.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/portrait-of-successful-business-team-working-in-office-e1603246310585.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 165194,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WV4HKAG"
+        },
+        {
+            "filename": "Image-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Image-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 31858,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6NJPEF"
+        },
+        {
+            "filename": "Image.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Image.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17155,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-83S5W35"
+        },
+        {
+            "filename": "image-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/image-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 29754,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q8JDNBT"
+        },
+        {
+            "filename": "Image-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Image-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 25367,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9ABZR"
+        },
+        {
+            "filename": "female-accountant-team-is-analyzing-data-documents-in-the-office-e1603246057633.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/female-accountant-team-is-analyzing-data-documents-in-the-office-e1603246057633.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us-2.json",
+                    "name": "Contact Us 2"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 171529,
+            "dimensions": [
+                1920,
+                1314
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QFCJVU3"
+        },
+        {
+            "filename": "managers-analyzing-reports-e1603246357369.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/managers-analyzing-reports-e1603246357369.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cases.json",
+                    "name": "Our Cases"
+                }
+            ],
+            "filesize": 300597,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QWW3QMB"
+        },
+        {
+            "filename": "business-team-celebrating-with-raised-up-hands--e1603246386772.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-team-celebrating-with-raised-up-hands--e1603246386772.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cases.json",
+                    "name": "Our Cases"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 154574,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L2H2DK2"
+        },
+        {
+            "filename": "attractive-business-couple-using-tablet-in-their-company-e1603246410100.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/attractive-business-couple-using-tablet-in-their-company-e1603246410100.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cases.json",
+                    "name": "Our Cases"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 119834,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HGUD9KC"
+        },
+        {
+            "filename": "business-team-partner-working-with-computer-e1603246231684.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-team-partner-working-with-computer-e1603246231684.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cases.json",
+                    "name": "Our Cases"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 219989,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-65ZM5TB"
+        },
+        {
+            "filename": "business-people-analyzing-graphs-e1603246443853.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-people-analyzing-graphs-e1603246443853.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cases.json",
+                    "name": "Our Cases"
+                }
+            ],
+            "filesize": 148806,
+            "dimensions": [
+                1440,
+                956
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YBKDRCN"
+        },
+        {
+            "filename": "business-meeting-coworkers-discussing-the-project-in-office-e1603246488648.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-meeting-coworkers-discussing-the-project-in-office-e1603246488648.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cases.json",
+                    "name": "Our Cases"
+                }
+            ],
+            "filesize": 144043,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PE4LU7X"
+        },
+        {
+            "filename": "business-casual-team-meeting-working-with-new-startup-project-e1603246513808.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-casual-team-meeting-working-with-new-startup-project-e1603246513808.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-cases.json",
+                    "name": "Our Cases"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 237573,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PB4S4P6"
+        },
+        {
+            "filename": "business-team-at-work-e1603246757533.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/business-team-at-work-e1603246757533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 361158,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GYHCJUB"
+        },
+        {
+            "filename": "portrait-of-multi-cultural-business-team-in-office-e1603246550157.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/portrait-of-multi-cultural-business-team-in-office-e1603246550157.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 320502,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7A8NFVB"
+        },
+        {
+            "filename": "Team4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Team4-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 153594,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QWVC4G6"
+        },
+        {
+            "filename": "Team5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Team5-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 203937,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZKA6TFS"
+        },
+        {
+            "filename": "Team6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Team6-600x590.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 152985,
+            "dimensions": [
+                1024,
+                1007
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZQ6TR9C"
+        },
+        {
+            "filename": "portrait-of-business-team-posing-in-office-e1603246637385.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/portrait-of-business-team-posing-in-office-e1603246637385.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 199122,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YFQJM2S"
+        },
+        {
+            "filename": "Asset-6@2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Asset-6@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 18901,
+            "dimensions": [
+                998,
+                157
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-P95AGC"
+        },
+        {
+            "filename": "Logo-footer.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/financerr\/wp-content\/uploads\/sites\/13\/2020\/10\/Logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/footer-2.json",
+                    "name": "Footer 2"
+                }
+            ],
+            "filesize": 17469,
+            "dimensions": [
+                998,
+                155
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/logo-P95AGC"
+        }
+    ]
+}

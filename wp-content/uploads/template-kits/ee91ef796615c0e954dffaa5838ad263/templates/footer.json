@@ -1,0 +1,497 @@
+{
+    "version": "0.4",
+    "title": "Footer",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-footer",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "3e80f014",
+            "settings": {
+                "layout": "full_width",
+                "background_background": "classic",
+                "background_color": "#111720",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2fadcef8",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2b48ece7",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "21351d56",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": 33.419
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6a4d2b22",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/logo-light.png",
+                                                    "id": 93
+                                                },
+                                                "image_size": "tk_preview",
+                                                "align": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4dbe482",
+                                            "settings": {
+                                                "editor": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=b559be4"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5930b573",
+                                            "settings": {
+                                                "social_icon_list": [
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-facebook",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "435fd81"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "9f772cd"
+                                                    },
+                                                    {
+                                                        "social_icon": {
+                                                            "value": "fab fa-youtube",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "_id": "1477df9"
+                                                    },
+                                                    {
+                                                        "_id": "99ff578",
+                                                        "social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        }
+                                                    }
+                                                ],
+                                                "align": "left",
+                                                "icon_color": "custom",
+                                                "icon_primary_color": "#111720",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_primary_color": "",
+                                                    "icon_secondary_color": "globals\/colors?id=b559be4",
+                                                    "hover_secondary_color": "globals\/colors?id=aec8cb1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "social-icons",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "395cf8bc",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": 20.674
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "27ffc203",
+                                            "settings": {
+                                                "title": "Our Company",
+                                                "header_size": "h6",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "489cd315",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Home",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "af23f6b"
+                                                    },
+                                                    {
+                                                        "text": "About",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "ab504c3"
+                                                    },
+                                                    {
+                                                        "text": "Services",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "95c2d06"
+                                                    },
+                                                    {
+                                                        "text": "Projects",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "12ce60a"
+                                                    },
+                                                    {
+                                                        "text": "Contact",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "be8634d"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=b559be4",
+                                                    "text_color": "globals\/colors?id=b559be4",
+                                                    "text_color_hover": "globals\/colors?id=aec8cb1",
+                                                    "icon_color_hover": "globals\/colors?id=aec8cb1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3f486863",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": 20.866
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "29dc50fa",
+                                            "settings": {
+                                                "title": "Our Services",
+                                                "header_size": "h6",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "679521e4",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Financial Analysis",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "af23f6b"
+                                                    },
+                                                    {
+                                                        "text": "Business Solutions",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "ab504c3"
+                                                    },
+                                                    {
+                                                        "text": "Client Management",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "95c2d06"
+                                                    },
+                                                    {
+                                                        "text": "Online Consulting",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "12ce60a"
+                                                    },
+                                                    {
+                                                        "text": "Business Opportunities",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "be8634d"
+                                                    },
+                                                    {
+                                                        "text": "IT Consulting",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-angle-right",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "a5923ed"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=b559be4",
+                                                    "text_color": "globals\/colors?id=b559be4",
+                                                    "text_color_hover": "globals\/colors?id=aec8cb1",
+                                                    "icon_color_hover": "globals\/colors?id=aec8cb1"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1a13a0ac",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "384ff296",
+                                            "settings": {
+                                                "title": "Contact Info",
+                                                "header_size": "h6",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "72ef3f98",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "99 S.t Jomblo Park Pekanbaru 28292. Indonesia",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-map-marker-alt",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "af23f6b"
+                                                    },
+                                                    {
+                                                        "_id": "00a9a4f",
+                                                        "text": "(0761) 654-123987",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-phone-alt",
+                                                            "library": "fa-solid"
+                                                        }
+                                                    },
+                                                    {
+                                                        "text": "info@yoursite.com",
+                                                        "selected_icon": {
+                                                            "value": "far fa-envelope",
+                                                            "library": "fa-regular"
+                                                        },
+                                                        "_id": "f186dca"
+                                                    },
+                                                    {
+                                                        "text": "Mon - Sat 09:00 - 17:00",
+                                                        "selected_icon": {
+                                                            "value": "far fa-clock",
+                                                            "library": "fa-regular"
+                                                        },
+                                                        "_id": "7870618"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=b559be4"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "17908154",
+                            "settings": {
+                                "layout": "full_width",
+                                "background_background": "classic",
+                                "background_color": "#0B1017",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2c1e46a5",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "56689aa2",
+                                            "settings": {
+                                                "editor": "<p>\u00a9 2021 Finc Template. All rights reserved<\/p>",
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=b559be4"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

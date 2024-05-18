@@ -1,0 +1,944 @@
+{
+    "version": "0.4",
+    "title": "Projects",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "2098b63a",
+            "settings": {
+                "background_background": "classic",
+                "background_slideshow_ken_burns": "yes",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.4,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=db1cc8b"
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": 700,
+                    "sizes": []
+                },
+                "background_image": {
+                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/hero-04.jpg",
+                    "id": 332
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover"
+            },
+            "elements": [
+                {
+                    "id": "7092ef2e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "1ab27225",
+                            "settings": {
+                                "title": "Projects",
+                                "header_size": "h1",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=b559be4",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "69e4c480",
+                            "settings": {
+                                "editor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=b559be4"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "47a366f9",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7c7dc45c",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2e669ca",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "177746c4",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6fa7404a",
+                                            "settings": {
+                                                "icon_type": "",
+                                                "icon_image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "thumbnail_size": "custom",
+                                                "thumbnail_custom_dimension": {
+                                                    "width": "400",
+                                                    "height": "400"
+                                                },
+                                                "title_front": "",
+                                                "description_front": "",
+                                                "select_icon_back": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_back": "Posandu",
+                                                "description_back": "Business Services Consulting",
+                                                "flipbox_button_text": "",
+                                                "flip_effect": "zoom-in",
+                                                "padding_front": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "background_front_background": "classic",
+                                                "background_front_image": {
+                                                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-1.jpg",
+                                                    "id": 167
+                                                },
+                                                "background_front_position": "center center",
+                                                "background_front_repeat": "no-repeat",
+                                                "background_front_size": "cover",
+                                                "image_size_front": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "padding_back": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "link_type": "box",
+                                                "icon_image_back": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "icon_type_back": "none",
+                                                "background_front_bg_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "icon_text": "1",
+                                                "icon_text_back": "1",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 500,
+                                                    "sizes": []
+                                                },
+                                                "overlay_back_background": "gradient",
+                                                "overlay_back_gradient_angle": {
+                                                    "unit": "deg",
+                                                    "size": 260,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "overlay_front_color": "",
+                                                    "overlay_back_color": "globals\/colors?id=primary",
+                                                    "overlay_back_color_b": "globals\/colors?id=aec8cb1",
+                                                    "title_typography_back_typography": "globals\/typography?id=primary",
+                                                    "description_typography_back_typography": "globals\/typography?id=text"
+                                                },
+                                                "title_html_tag_back": "h5"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-flipbox",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "48c50336",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3cfa13a0",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "71501609",
+                                            "settings": {
+                                                "icon_type": "",
+                                                "icon_image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "thumbnail_size": "custom",
+                                                "thumbnail_custom_dimension": {
+                                                    "width": "400",
+                                                    "height": "400"
+                                                },
+                                                "title_front": "",
+                                                "description_front": "",
+                                                "select_icon_back": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_back": "Posandu",
+                                                "description_back": "Business Services Consulting",
+                                                "flipbox_button_text": "",
+                                                "flip_effect": "zoom-in",
+                                                "padding_front": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "background_front_background": "classic",
+                                                "background_front_image": {
+                                                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-2.jpg",
+                                                    "id": 168
+                                                },
+                                                "background_front_position": "center center",
+                                                "background_front_repeat": "no-repeat",
+                                                "background_front_size": "cover",
+                                                "image_size_front": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "padding_back": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "link_type": "box",
+                                                "icon_image_back": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "icon_type_back": "none",
+                                                "background_front_bg_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "icon_text": "1",
+                                                "icon_text_back": "1",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "overlay_back_background": "gradient",
+                                                "overlay_back_gradient_angle": {
+                                                    "unit": "deg",
+                                                    "size": 260,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "overlay_front_color": "",
+                                                    "overlay_back_color": "globals\/colors?id=primary",
+                                                    "overlay_back_color_b": "globals\/colors?id=aec8cb1",
+                                                    "title_typography_back_typography": "globals\/typography?id=primary",
+                                                    "description_typography_back_typography": "globals\/typography?id=secondary"
+                                                },
+                                                "title_html_tag_front": "h5",
+                                                "title_html_tag_back": "h5"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-flipbox",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "529cf4cb",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "c090c97",
+                                            "settings": {
+                                                "icon_type": "",
+                                                "icon_image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "thumbnail_size": "custom",
+                                                "thumbnail_custom_dimension": {
+                                                    "width": "400",
+                                                    "height": "400"
+                                                },
+                                                "title_front": "",
+                                                "description_front": "",
+                                                "select_icon_back": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_back": "Posandu",
+                                                "description_back": "Business Services Consulting",
+                                                "flipbox_button_text": "",
+                                                "flip_effect": "zoom-in",
+                                                "padding_front": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "background_front_background": "classic",
+                                                "background_front_image": {
+                                                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-3.jpg",
+                                                    "id": 169
+                                                },
+                                                "background_front_position": "center center",
+                                                "background_front_repeat": "no-repeat",
+                                                "background_front_size": "cover",
+                                                "image_size_front": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "padding_back": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "link_type": "box",
+                                                "icon_image_back": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "icon_type_back": "none",
+                                                "background_front_bg_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "icon_text": "1",
+                                                "icon_text_back": "1",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "overlay_back_background": "gradient",
+                                                "overlay_back_gradient_angle": {
+                                                    "unit": "deg",
+                                                    "size": 260,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "overlay_front_color": "",
+                                                    "overlay_back_color": "globals\/colors?id=primary",
+                                                    "overlay_back_color_b": "globals\/colors?id=aec8cb1",
+                                                    "title_typography_back_typography": "globals\/typography?id=primary",
+                                                    "description_typography_back_typography": "globals\/typography?id=secondary"
+                                                },
+                                                "title_html_tag_front": "h5",
+                                                "title_html_tag_back": "h5"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-flipbox",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4382af22",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "f410523",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3cf3060b",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "ae419d3",
+                                            "settings": {
+                                                "icon_type": "",
+                                                "icon_image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "thumbnail_size": "custom",
+                                                "thumbnail_custom_dimension": {
+                                                    "width": "400",
+                                                    "height": "400"
+                                                },
+                                                "title_front": "",
+                                                "description_front": "",
+                                                "select_icon_back": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_back": "Posandu",
+                                                "description_back": "Business Services Consulting",
+                                                "flipbox_button_text": "",
+                                                "flip_effect": "zoom-in",
+                                                "padding_front": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "background_front_background": "classic",
+                                                "background_front_image": {
+                                                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-4.jpg",
+                                                    "id": 170
+                                                },
+                                                "background_front_position": "center center",
+                                                "background_front_repeat": "no-repeat",
+                                                "background_front_size": "cover",
+                                                "image_size_front": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "padding_back": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "link_type": "box",
+                                                "icon_image_back": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "icon_type_back": "none",
+                                                "background_front_bg_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "icon_text": "1",
+                                                "icon_text_back": "1",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "overlay_back_background": "gradient",
+                                                "overlay_back_gradient_angle": {
+                                                    "unit": "deg",
+                                                    "size": 260,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "overlay_front_color": "",
+                                                    "overlay_back_color": "globals\/colors?id=primary",
+                                                    "overlay_back_color_b": "globals\/colors?id=aec8cb1",
+                                                    "title_typography_back_typography": "globals\/typography?id=primary",
+                                                    "description_typography_back_typography": "globals\/typography?id=secondary"
+                                                },
+                                                "title_html_tag_back": "h5"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-flipbox",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "29f0351b",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "751e87f7",
+                                            "settings": {
+                                                "icon_type": "",
+                                                "icon_image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "thumbnail_size": "custom",
+                                                "thumbnail_custom_dimension": {
+                                                    "width": "400",
+                                                    "height": "400"
+                                                },
+                                                "title_front": "",
+                                                "description_front": "",
+                                                "select_icon_back": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_back": "Posandu",
+                                                "description_back": "Business Services Consulting",
+                                                "flipbox_button_text": "",
+                                                "flip_effect": "zoom-in",
+                                                "padding_front": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "background_front_background": "classic",
+                                                "background_front_image": {
+                                                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-5.jpg",
+                                                    "id": 171
+                                                },
+                                                "background_front_position": "center center",
+                                                "background_front_repeat": "no-repeat",
+                                                "background_front_size": "cover",
+                                                "image_size_front": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "padding_back": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "link_type": "box",
+                                                "icon_image_back": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "icon_type_back": "none",
+                                                "background_front_bg_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "icon_text": "1",
+                                                "icon_text_back": "1",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 250,
+                                                    "sizes": []
+                                                },
+                                                "overlay_back_background": "gradient",
+                                                "overlay_back_gradient_angle": {
+                                                    "unit": "deg",
+                                                    "size": 260,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "overlay_front_color": "",
+                                                    "overlay_back_color": "globals\/colors?id=primary",
+                                                    "overlay_back_color_b": "globals\/colors?id=aec8cb1",
+                                                    "title_typography_back_typography": "globals\/typography?id=primary",
+                                                    "description_typography_back_typography": "globals\/typography?id=secondary"
+                                                },
+                                                "title_html_tag_back": "h5"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-flipbox",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "71aab519",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "2b5a",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "18573cb8",
+                                            "settings": {
+                                                "icon_type": "",
+                                                "icon_image": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "thumbnail_size": "custom",
+                                                "thumbnail_custom_dimension": {
+                                                    "width": "400",
+                                                    "height": "400"
+                                                },
+                                                "title_front": "",
+                                                "description_front": "",
+                                                "select_icon_back": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_back": "Posandu",
+                                                "description_back": "Business Services Consulting",
+                                                "flipbox_button_text": "",
+                                                "flip_effect": "zoom-in",
+                                                "padding_front": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "background_front_background": "classic",
+                                                "background_front_image": {
+                                                    "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-6.jpg",
+                                                    "id": 172
+                                                },
+                                                "background_front_position": "center center",
+                                                "background_front_repeat": "no-repeat",
+                                                "background_front_size": "cover",
+                                                "image_size_front": {
+                                                    "unit": "px",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "padding_back": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "20",
+                                                    "bottom": "0",
+                                                    "left": "20",
+                                                    "isLinked": false
+                                                },
+                                                "link_type": "box",
+                                                "icon_image_back": {
+                                                    "url": "",
+                                                    "id": ""
+                                                },
+                                                "icon_type_back": "none",
+                                                "background_front_bg_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "icon_text": "1",
+                                                "icon_text_back": "1",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 500,
+                                                    "sizes": []
+                                                },
+                                                "overlay_back_background": "gradient",
+                                                "overlay_back_gradient_angle": {
+                                                    "unit": "deg",
+                                                    "size": 260,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "overlay_front_color": "",
+                                                    "overlay_back_color": "globals\/colors?id=primary",
+                                                    "overlay_back_color_b": "globals\/colors?id=aec8cb1",
+                                                    "title_typography_back_typography": "globals\/typography?id=primary",
+                                                    "description_typography_back_typography": "globals\/typography?id=secondary"
+                                                },
+                                                "title_html_tag_back": "h5"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-flipbox",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5e09caae",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "4e32fb4e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "39ffb803",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 134,
+                                        "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-1b.png"
+                                    },
+                                    {
+                                        "id": 135,
+                                        "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-2b.png"
+                                    },
+                                    {
+                                        "id": 136,
+                                        "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-3b.png"
+                                    },
+                                    {
+                                        "id": 137,
+                                        "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-4b.png"
+                                    },
+                                    {
+                                        "id": 138,
+                                        "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-5b.png"
+                                    },
+                                    {
+                                        "id": 139,
+                                        "url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-6b.png"
+                                    }
+                                ],
+                                "thumbnail_size": "tk_preview",
+                                "slides_to_show": "4",
+                                "navigation": "none"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "71ff8930",
+            "settings": {
+                "structure": "22",
+                "background_background": "gradient",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 260,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=primary",
+                    "background_color_b": "globals\/colors?id=aec8cb1"
+                },
+                "background_color_b": "#91D13F"
+            },
+            "elements": [
+                {
+                    "id": "24452d93",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "54d2dd08",
+                            "settings": {
+                                "title": "Don't hesitate to contact us any time.",
+                                "header_size": "h3",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 34,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "600",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=b559be4"
+                                },
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "1be2bb05",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6e4c9e63",
+                            "settings": {
+                                "text": "Hire Us Now",
+                                "align": "right",
+                                "align_mobile": "center",
+                                "size": "md",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=secondary",
+                                    "button_text_color": "globals\/colors?id=db1cc8b",
+                                    "button_background_hover_color": "globals\/colors?id=aec8cb1",
+                                    "hover_color": "globals\/colors?id=b559be4"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,1301 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Finc - Business Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "News Single",
+            "screenshot": "screenshots\/news-single.jpg",
+            "source": "templates\/news-single.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/news-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Table",
+            "screenshot": "screenshots\/pricing-table.jpg",
+            "source": "templates\/pricing-table.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/pricing-table\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.2.2",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "Press Elements - Widgets for Elementor",
+            "version": "1.7.2",
+            "file": "press-elements\/press-elements.php",
+            "author": "Press Elements"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo-light.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/logo-light.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4838,
+            "dimensions": [
+                169,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4762,
+            "dimensions": [
+                169,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "404-image.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/404-image-600x424.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 35294,
+            "dimensions": [
+                810,
+                572
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fof-404-landing-page-3-KET9KDM"
+        },
+        {
+            "filename": "hero-03.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/hero-03-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 184289,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/financiers-at-meeting-68XQAPF"
+        },
+        {
+            "filename": "dummy-logo-1b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-1b.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8551,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-2b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-2b.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8136,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-3b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-3b.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 9054,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-4b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-4b.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 10134,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-5b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-5b.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 8953,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "dummy-logo-6b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dummy-logo-6b.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 10119,
+            "dimensions": [
+                300,
+                150
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero-04.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/hero-04-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 343257,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/financial-statistics-P7HQP84"
+        },
+        {
+            "filename": "dot-map-black.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/dot-map-black-600x338.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 16198,
+            "dimensions": [
+                1883,
+                1060
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "news-2.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/news-2-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 91565,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-during-business-meeting-5LPY2LY"
+        },
+        {
+            "filename": "team-6.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/team-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 31747,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-business-people-with-crossed-a-F5KGM3K"
+        },
+        {
+            "filename": "team-5.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/team-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 37614,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-business-people-with-crossed-a-F5KGM3K"
+        },
+        {
+            "filename": "team-4.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 39521,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-business-people-with-crossed-a-F5KGM3K"
+        },
+        {
+            "filename": "team-3.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/team-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 34134,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-business-team-posing-in-office-YFQJM2S"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1471,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-2b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/icon-2b.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 965,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-3b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/icon-3b.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 1081,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-4b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/icon-4b.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 1018,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-5b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/icon-5b.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 1098,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-6b.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/02\/icon-6b.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 689,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "project-1.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-1-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 108397,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-teamwork-YSBT7WE"
+        },
+        {
+            "filename": "project-2.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-2-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 57720,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/explaining-business-data-R8MH9E2"
+        },
+        {
+            "filename": "project-3.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-3-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 89632,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/united-business-team-holding-hands-sitting-togethe-7YNV6QS"
+        },
+        {
+            "filename": "project-4.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-4-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 36344,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-lawyer-is-currently-providing-legal-advice-on--7TQHNM3"
+        },
+        {
+            "filename": "project-5.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-5-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 48989,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/financial-advisor-consulting-SWXEWU8"
+        },
+        {
+            "filename": "project-6.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/project-6-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 59187,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-discussing-business-contract-29N9AWZ"
+        },
+        {
+            "filename": "hero-02.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-02-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 167032,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/financial-expert-P5ZF82G"
+        },
+        {
+            "filename": "hero-07-1.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-07-1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 231015,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/financial-statistics-4YD953G"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1007,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-3.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1158,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-4.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1116,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1149,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 757,
+            "dimensions": [
+                76,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-business-finance-line-PQQ7A8C-2020-08-06"
+        },
+        {
+            "filename": "professional-business-colleagues-in-formal-wear-st-H5EC4PG.png",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/professional-business-colleagues-in-formal-wear-st-H5EC4PG-600x641.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 218282,
+            "dimensions": [
+                749,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H5EC4PG"
+        },
+        {
+            "filename": "hero-07.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-07-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 184750,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-business-people-working-on-business-proje-NFLCKRN"
+        },
+        {
+            "filename": "hero-12.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-12-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 287621,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-teamwork-YSBT7WE"
+        },
+        {
+            "filename": "hero-04.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-04-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 166185,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/arguing-business-people-M7E5CKG"
+        },
+        {
+            "filename": "hero-13.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-13-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 183593,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-having-fun-in-office-9MZUYDW"
+        },
+        {
+            "filename": "team-1.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/team-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 44804,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-four-business-colleagues-outside-offic-PQNSDR3"
+        },
+        {
+            "filename": "team-2.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 33862,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-business-team-posing-in-office-YFQJM2S"
+        },
+        {
+            "filename": "hero-06.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-06-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 122760,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-financiers-FQ6BJAP"
+        },
+        {
+            "filename": "hero-05.jpg",
+            "thumbnail_url": "http:\/\/takdesain.rudhisasmito.com\/finc\/wp-content\/uploads\/sites\/8\/2021\/01\/hero-05-600x344.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 154702,
+            "dimensions": [
+                1920,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-businessman-in-suit-and-eyeglasses-loo-NSTJX3D"
+        }
+    ]
+}
